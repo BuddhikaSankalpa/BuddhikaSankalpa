@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Science+Undergraduate;Interested+in+IoT%2C+Web+Development+%26+AI;Aspiring+IoT+Engineer" alt="Typing animation" />
+</p>
+
 # Hi, I'm W. A. Buddhika Sankalpa 👋
 
 🎓 Electronics and Computer Science Undergraduate at the University of Kelaniya  
