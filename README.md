@@ -4,8 +4,6 @@
 💡 Interested in IoT, web development, embedded systems, and artificial intelligence  
 🎯 My career goal is to become an IoT Engineer
 
-[View My Projects](#projects) · [Contact Me](#contact)
-
 ---
 
 ## 👨‍💻 About Me
@@ -38,27 +36,6 @@ Secondary education
 ## 💻 Tech Stack
 
 Kali Linux · React · Node.js · Next.js · MongoDB · Express.js · TensorFlow · PHP · Proteus
-
----
-
-## 🚀 Projects
-
-_Add your real projects below. Replace the sample text and links with your project details._
-
-### Project 1 — [Project Name]
-Briefly describe what the project does.  
-**Technologies:** Add technologies used  
-[GitHub Repository](https://github.com/BuddhikaSankalpa) · [Live Demo](#)
-
-### Project 2 — [Project Name]
-Briefly describe what the project does.  
-**Technologies:** Add technologies used  
-[GitHub Repository](https://github.com/BuddhikaSankalpa) · [Live Demo](#)
-
-### Project 3 — [Project Name]
-Briefly describe what the project does.  
-**Technologies:** Add technologies used  
-[GitHub Repository](https://github.com/BuddhikaSankalpa) · [Live Demo](#)
 
 ---
 
