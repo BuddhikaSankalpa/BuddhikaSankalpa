@@ -22,6 +22,8 @@
 
 ## A little about me
 
+<img align="right" width="440" src="./assets/IoT-Cloud-Cybersecurity-Illustration.webp" alt="IoT, cloud computing, embedded systems, and cybersecurity illustration" />
+
 I'm an **Electronics & Computer Science undergraduate at the University of Kelaniya**, with an expected graduation year of **2028**.
 
 I build full-stack web applications and explore electronics, embedded systems, and machine learning. I'm especially interested in work that connects software with real-world devices. I'm also learning more about **IoT, DevOps, MLOps, cloud, and cybersecurity**.
