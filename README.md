@@ -116,6 +116,37 @@ I enjoy contributing to university events through technical coordination, commun
 > I have also edited videos for different events and functions.  
 > [View selected video edits ↗](https://drive.google.com/drive/folders/137IXd5UaJ8qCyT4dNUFwO2Qj4ew0LcPU)
 
+<!-- ------------------------------------ -->
+<!-- GITHUB — BEHIND THE COMMITS           -->
+<!-- ------------------------------------ -->
+
+<h2 align="center">Behind the commits</h2>
+
+<p align="center">
+  Building, experimenting, and learning through code.
+  <br />
+  <sub>A snapshot of my GitHub activity and the languages behind my projects.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BuddhikaSankalpa"><img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BuddhikaSankalpa&amp;name=Buddhika%20Sankalpa&amp;theme=github_dark&amp;bg_color=111820&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=263445&amp;chart_color=58A6FF&amp;animation=draw&amp;duration=1.8" alt="Buddhika Sankalpa — GitHub contribution overview" /></a>
+</p>
+
+<p align="center">
+  <img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BuddhikaSankalpa&amp;theme=github_dark&amp;bg_color=111820&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=263445&amp;chart_color=58A6FF&amp;animation=draw&amp;duration=1.8" alt="Top languages across my repositories" />
+  <img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BuddhikaSankalpa&amp;theme=github_dark&amp;bg_color=111820&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=263445&amp;chart_color=58A6FF&amp;animation=draw&amp;duration=1.8" alt="Top languages by commits" />
+  <img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BuddhikaSankalpa&amp;theme=github_dark&amp;timeZone=Asia%2FColombo&amp;bg_color=111820&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=263445&amp;chart_color=58A6FF&amp;animation=draw&amp;duration=1.8" alt="Commits by hour in Sri Lanka time" />
+</p>
+
+<p align="center">
+  <sub>Small experiments. Practical projects. Continuous learning.</sub>
+  <br /><br />
+  <a href="https://github.com/BuddhikaSankalpa?tab=repositories"><strong>Explore my repositories</strong></a>
+</p>
+
+<!-- ------------------------------------ -->
+<!-- END OF GITHUB SECTION                -->
+<!-- ------------------------------------ -->
 
 
 ## Education
