@@ -165,10 +165,18 @@ GCE Advanced Level, Physical Science
 
 ### Let's connect
 
-[Email me](mailto:buddhikasankalpa304@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/buddhika-sankalpa-542a04311/) ·
-[WhatsApp](https://wa.me/94717309230)
+<p>
+  <a href="mailto:buddhikasankalpa304@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/buddhika-sankalpa-542a04311/">LinkedIn</a>
+  ·
+  <a href="https://wa.me/94717309230">WhatsApp</a>
+</p>
+
+<p>Open to collaborating on web, IoT, and cloud projects.</p>
 
 <sub>Curious mind. Ideas made real.</sub>
+
+</div>
 
 </div>
