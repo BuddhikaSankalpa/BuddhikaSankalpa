@@ -26,7 +26,7 @@
 
 I'm an **Electronics & Computer Science undergraduate at the University of Kelaniya**, with an expected graduation year of **2028**.
 
-I build full-stack web applications and explore electronics, embedded systems, and machine learning. I'm especially interested in work that connects software with real-world devices. I'm also learning more about **IoT, DevOps, MLOps, cloud, and cybersecurity**.
+My interests span web development, embedded systems, and machine learning. I enjoy building practical applications and exploring how software can connect with real world devices. I’m also developing my knowledge of **IoT, cloud computing, DevOps, MLOps, and cybersecurity.**
 
 - 💻 Building web applications and practical digital tools
 - 🔌 Exploring connected devices and embedded systems
