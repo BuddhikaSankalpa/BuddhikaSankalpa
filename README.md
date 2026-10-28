@@ -9,10 +9,12 @@
 
 **Software meets the physical world. Ideas become useful things.**
 
-[Portfolio](https://buddhikasankalpa.work.gd/) ·
-[LinkedIn](https://www.linkedin.com/in/buddhika-sankalpa-542a04311/) ·
-[Email](mailto:buddhikasankalpa304@gmail.com) ·
-[View my CV](https://buddhikasankalpa.work.gd/MY_CV.pdf)
+<p align="center">
+  <a href="https://buddhikasankalpa.work.gd/"><img src="https://img.shields.io/badge/Portfolio-245C81?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PHBhdGggZD0iTTMgMTJoMThNMTIgM2M1IDUgNSAxMyAwIDE4TTEyIDNjLTUgNS01IDEzIDAgMTgiLz48L3N2Zz4=" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/buddhika-sankalpa-542a04311/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDhoM3YxMkg0em0xLjUtNWExLjggMS44IDAgMSAwIDAgMy42IDEuOCAxLjggMCAwIDAgMC0zLjZNMTAgOGgzdjEuNmMuNi0xLjEgMS43LTEuOSAzLjQtMS45IDMgMCA0IDEuOSA0IDQuNlYyMGgtM3YtNi44YzAtMS43LS40LTIuOC0xLjktMi44LTEuNyAwLTIuNSAxLjItMi41IDIuOFYyMGgtM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
+  <a href="mailto:buddhikasankalpa304@gmail.com"><img src="https://img.shields.io/badge/Email-405C78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://buddhikasankalpa.work.gd/MY_CV.pdf"><img src="https://img.shields.io/badge/View%20my%20CV-263C5A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNiAyaDhsNSA1djE1SDZ6TTE0IDJ2NWg1TTkgMTJoN005IDE2aDciLz48L3N2Zz4=" alt="View my CV" /></a>
+</p>
 
 </div>
 
@@ -113,6 +115,7 @@ I enjoy contributing to university events through technical coordination, commun
 > **Creative work** 🎬  
 > I have also edited videos for different events and functions.  
 > [View selected video edits ↗](https://drive.google.com/drive/folders/137IXd5UaJ8qCyT4dNUFwO2Qj4ew0LcPU)
+
 
 
 ## Education
