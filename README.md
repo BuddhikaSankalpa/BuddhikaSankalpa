@@ -22,7 +22,7 @@
 
 ## A little about me
 
-<img align="right" width="440" src="./assets/IoT-Cloud-Cybersecurity-Illustration.webp" alt="IoT, cloud computing, embedded systems, and cybersecurity illustration" />
+<img align="right" width="340" src="./assets/IoT-Cloud-Cybersecurity-Illustration.webp" alt="IoT, cloud computing, embedded systems, and cybersecurity illustration" />
 
 I'm an **Electronics & Computer Science undergraduate at the University of Kelaniya**, with an expected graduation year of **2028**.
 
