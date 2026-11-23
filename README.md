@@ -139,6 +139,12 @@ I enjoy contributing to university events through technical coordination, commun
   <img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BuddhikaSankalpa&amp;theme=github_dark&amp;bg_color=111820&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=263445&amp;chart_color=58A6FF&amp;animation=draw&amp;duration=1.8" alt="Top languages by commits" />
   <img width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BuddhikaSankalpa&amp;theme=github_dark&amp;timeZone=Asia%2FColombo&amp;bg_color=111820&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=263445&amp;chart_color=58A6FF&amp;animation=draw&amp;duration=1.8" alt="Commits by hour in Sri Lanka time" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BuddhikaSankalpa/BuddhikaSankalpa/snake-output/github-snake-dark.svg" />
+    <img width="800" src="https://raw.githubusercontent.com/BuddhikaSankalpa/BuddhikaSankalpa/snake-output/github-snake.svg" alt="Animated snake eating my GitHub contributions" />
+  </picture>
+</p>
 
 <p align="center">
   <sub>Small experiments. Practical projects. Continuous learning.</sub>
